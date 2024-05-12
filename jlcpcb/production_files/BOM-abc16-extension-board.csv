@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+470p,C1,C_Disc_D3.0mm_W1.6mm_P2.50mm,
+470R,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+74LS74,U1,DIP-14_W7.62mm,
+DIN41612_02x32_AB,J2,DIN41612_B_2x32_Male_Horizontal_THT,
+DIN41612_02x32_AB,J1,DIN41612_B_2x32_Male_Horizontal_THT,
+100n,C2,C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,
+Conn_01x02_Pin,J3,PinHeader_1x02_P2.54mm_Vertical,
+Conn_01x04_Pin,J6,PinHeader_2x02_P2.54mm_Vertical,

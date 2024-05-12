@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,470p,C_Disc_D3.0mm_W1.6mm_P2.50mm,138.43,-118.785,180.0,top
+C2,100n,C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,131.445,-127.635,-90.0,top
+J1,DIN41612_02x32_AB,DIN41612_B_2x32_Male_Horizontal_THT,61.335,-87.63,90.0,top
+J2,DIN41612_02x32_AB,DIN41612_B_2x32_Male_Horizontal_THT,220.145,-87.63,-90.0,top
+J3,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,206.405,-48.26,90.0,top
+J6,Conn_01x04_Pin,PinHeader_2x02_P2.54mm_Vertical,206.38,-125.735,0.0,top
+R1,470R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,142.9,-113.705,-90.0,top
+U1,74LS74,DIP-14_W7.62mm,142.9,-126.57,90.0,top
